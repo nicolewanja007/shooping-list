@@ -1,1 +1,1 @@
-# shooping-list
+# shoping-list
